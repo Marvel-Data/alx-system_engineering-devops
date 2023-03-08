@@ -1,3 +1,4 @@
 Shell basic command
 ls
-pwd
+cd
+ls -l
